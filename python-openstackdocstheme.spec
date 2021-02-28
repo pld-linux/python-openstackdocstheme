@@ -48,6 +48,7 @@ BuildRequires:	python3-reno >= 2.5.0
 BuildRequires:	sphinx-pdg-3 >= 1.6.6
 %endif
 Requires:	python-modules >= 1:2.7
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
