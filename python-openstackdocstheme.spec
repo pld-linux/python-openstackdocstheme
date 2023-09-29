@@ -8,6 +8,7 @@
 Summary:	OpenStack Sphinx extensions
 Summary(pl.UTF-8):	Rozszerzenia modułu Sphinx z projektu OpenStack
 Name:		python-openstackdocstheme
+# keep 1.x here for python2 support
 Version:	1.31.2
 Release:	5
 License:	Apache v2.0
